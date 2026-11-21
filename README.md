@@ -8,6 +8,16 @@
 - 无其他模组前置
 - 语言：简体中文 / English
 
+## 截图 Screenshots
+
+![暖像素家园封面：家之锚、归家罗盘、互传与做客](docs/screenshots/01_cover.png)
+
+![家之锚与家园设置](docs/screenshots/02_home.png)
+
+![归家罗盘、互传与做客](docs/screenshots/03_travel.png)
+
+![家园规则与权限](docs/screenshots/04_rules.png)
+
 ## 下载
 
 请到 [Releases](../../releases) 页面下载 jar（版本 1.3.0）。
